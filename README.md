@@ -1,13 +1,13 @@
-# TinDog-Project
+## TinDog-Project
 A responsive TinDog-Project.
 
-## TECH STACK
+## TECH STACK 🛠️
 
 - HTML
 - CSS
 - BOOTSTRAP
 
-  ## FEATURES
+  ## FEATURES 📋
 
   - Fully Responsive
   - Easy To Use
